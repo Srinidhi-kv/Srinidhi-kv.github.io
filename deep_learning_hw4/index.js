@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      ' One of my lastthoughts was of the captain, who had so often strode along the beachwith his cocked hat, his sabre-cut cheek, and his old brass telescope',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      ' Here is thepaper; do you know the writing?” As he spoke, Villefort drew the letterfrom his pocket, and presented it to Dantès',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      '""But how could you guess what the motive was?""Had there been women in the house, I should have suspected amere vulgar intrigue'      
 };
 
 function status(statusText) {
