@@ -12,7 +12,7 @@ const examples = {
   'example2':
       ' Here is thepaper; do you know the writing?” As he spoke, Villefort drew the letterfrom his pocket, and presented it to Dantès',
   'example3':
-      '""But how could you guess what the motive was?""Had there been women in the house, I should have suspected amere vulgar intrigue'      
+      'But how could you guess what the motive was?'      
 };
 
 function status(statusText) {
